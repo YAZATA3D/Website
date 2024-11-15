@@ -18,8 +18,8 @@ Module.expectedDataFileDownloads++;
     } else {
       throw 'using preloaded data can only be done on a web page or in a web worker';
     }
-    var PACKAGE_NAME = 'C:/Users/YAZATA3D_MSI/Documents/Unreal Projects/YAZATA3D_Website/Binaries/HTML5/YAZATA3D_Website-HTML5-Shipping.data';
-    var REMOTE_PACKAGE_BASE = 'YAZATA3D_Website-HTML5-Shipping.data';
+    var PACKAGE_NAME = 'https://dl.dropboxusercontent.com/scl/fi/ahg3qjwu2218n6k6d1g21/YAZATA3D_Website-HTML5-Shipping.data?rlkey=196dt1ecx2yp9z3e5ektx0jn3&st=72oh0y3s&dl=0';
+    var REMOTE_PACKAGE_BASE = 'https://dl.dropboxusercontent.com/scl/fi/ahg3qjwu2218n6k6d1g21/YAZATA3D_Website-HTML5-Shipping.data?rlkey=196dt1ecx2yp9z3e5ektx0jn3&st=72oh0y3s&dl=0';
     if (typeof Module['locateFilePackage'] === 'function' && !Module['locateFile']) {
       Module['locateFile'] = Module['locateFilePackage'];
       err('warning: you defined Module.locateFilePackage, that has been renamed to Module.locateFile (using your locateFilePackage for now)');
