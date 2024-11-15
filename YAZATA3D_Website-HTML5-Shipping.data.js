@@ -173,6 +173,6 @@ Module['FS_createPath']('/YAZATA3D_Website/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 105, "filename": "/UE4CommandLine.txt"}, {"start": 105, "audio": 0, "end": 753863656, "filename": "/YAZATA3D_Website/Content/Paks/YAZATA3D_Website-HTML5.pak"}], "remote_package_size": 753863656, "package_uuid": "48f98445-6085-4f15-b09a-7ecb5019d5cd"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 105, "filename": "/UE4CommandLine.txt"}, {"start": 105, "audio": 0, "end": 62520859, "filename": "/YAZATA3D_Website/Content/Paks/YAZATA3D_Website-HTML5.pak"}], "remote_package_size": 62520859, "package_uuid": "08f932f3-e162-44e6-9fec-50b52f2ef2c4"});
 
 })();
